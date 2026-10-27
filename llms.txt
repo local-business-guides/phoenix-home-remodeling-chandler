@@ -17,8 +17,8 @@
 - Kitchen remodeler
 
 ## Guides
-- [A practical guide to kitchen remodeling](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/kitchen-remodeling/): Plan kitchen remodeling with clear material choices, a defined scope, and a construction price before demolition in Chandler.
 - [Planning kitchen remodeling in chandler](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/kitchen-remodeling-in-chandler/): Explore kitchen remodeling in chandler with questions about feasibility, project coordination, and preparing your Chandler home for construction.
+- [A practical guide to kitchen remodeling](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/kitchen-remodeling/): Plan kitchen remodeling with clear material choices, a defined scope, and a construction price before demolition in Chandler.
 - [Finding the best kitchen remodeling Chandler offers](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/best-kitchen-remodeling-chandler/): Compare best kitchen remodeling Chandler options with clear questions about design, scope, and pricing for your Chandler, Arizona home.
 - [Your chandler kitchen remodeling preparation guide](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/chandler-kitchen-remodeling/): Plan chandler kitchen remodeling with a practical checklist for appliances, storage, and construction preparation in Chandler, Arizona.
 - [Your guide to local kitchen remodeling Chandler](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/local-kitchen-remodeling-chandler/): Explore local kitchen remodeling Chandler with practical preparation tips for a clearer scope and better project planning in Chandler.
@@ -29,6 +29,7 @@
 - [Planning affordable kitchen remodeling Chandler](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/affordable-kitchen-remodeling-chandler/): Explore affordable kitchen remodeling Chandler with scope checks and material planning to make informed spending decisions for your Chandler home.
 
 ## Newsroom
+- [Chandler Homeowners Get New Kitchen Remodeling Guide and Podcast](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/news/2026-10-27-chandler-homeowners-get-new-kitchen-remodeling-gui/): Phoenix Home Remodeling published a guide to kitchen remodeling in Chandler and a podcast episode this week for local homeowners planning projects. (2026-10-27)
 - [Phoenix Home Remodeling Publishes Kitchen Remodeling Guide and Podcast Episode](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/news/2026-10-25-phoenix-home-remodeling-publishes-kitchen-remodeli/): Phoenix Home Remodeling published a kitchen remodeling guide and a podcast episode this week for homeowners planning a remodel. (2026-10-25)
 
 ## Pages
