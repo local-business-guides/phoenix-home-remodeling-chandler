@@ -3,7 +3,7 @@
 > Phoenix Home Remodeling is a Remodeler serving Chandler, Arizona. Phoenix Home Remodeling is a design-build remodeler serving the Phoenix metro. We specialize in kitchen, bathroom, shower, and whole home interior remodels. Design first. Build second. Every project starts with feasibility, 3D design, and finalized material selections, so you app
 
 ## Contact
-- Phone: +1623-243-8583
+- Phone: +1602-492-8205
 - Address: 6700 W Chicago St #1, Chandler, AZ 85226
 - Website: https://phxhomeremodeling.com/
 - Google Maps: https://www.google.com/maps?cid=5165661640854509667
@@ -35,9 +35,9 @@
 - [Phoenix Home Remodeling Publishes Kitchen Remodeling Guide and Podcast Episode](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/news/2026-10-25-phoenix-home-remodeling-publishes-kitchen-remodeli/): Phoenix Home Remodeling published a kitchen remodeling guide and a podcast episode this week for homeowners planning a remodel. (2026-10-25)
 
 ## Pages
-- [Kitchen Remodeling in Chandler, Arizona](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/): Plan your Chandler kitchen around your needs, with 3D design and a final construction price before demolition. Call +1623-243-8583.
+- [Kitchen Remodeling in Chandler, Arizona](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/): Plan your Chandler kitchen around your needs, with 3D design and a final construction price before demolition. Call +1602-492-8205.
 - [About Phoenix Home Remodeling and Contact](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/about/): About Phoenix Home Remodeling, Chandler.
-- [Contact Phoenix Home Remodeling](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/contact/): Call Phoenix Home Remodeling at +1623-243-8583 — Chandler.
+- [Contact Phoenix Home Remodeling](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/contact/): Call Phoenix Home Remodeling at +1602-492-8205 — Chandler.
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/phoenix-home-remodeling-chandler/sitemap.xml)
